@@ -1,0 +1,9 @@
+
+1. System.out
+2. System.in
+3. System.err(error)
+
+Printing Statement:- In print statement it is used to print the data once the data is printed cursor doesnt moves to the next line.
+In print statement data must be passed if we fail to pass the data it will throw compile time error.
+
+Println statement:- It is also used to print the data once the data is printed the cursor moves to the next line.It will not throw any error   
